@@ -1,44 +1,63 @@
-# Data-Analyst-Practice
-Beginner data analyst portfolio with hands-on projects using **Excel, Python, SQL, and Power BI**, focused on data cleaning, querying, visualization, and generating practical business insights from real and sample datasets.
+# Data Analytics Learning Repository
 
-# Data Analytics Learning Portfolio — Excel, Python, SQL & Power BI
+This repository documents my ongoing journey in Data Analytics. I’m building practical skills step by step across core tools and technologies used in real-world analytics workflows. The goal of this repo is to track my progress, store practice files, and share small projects and exercises as I continue learning.
 
-This repository documents my end-to-end learning journey in **Data Analytics** using industry-standard tools including **Excel, Python, SQL, and Power BI**. It contains hands-on projects, practice datasets, and analytical workflows that demonstrate data cleaning, transformation, querying, visualization, and insight generation.
+## What I’m Learning
 
-## 📌 Objective
+### Excel
+- Data cleaning and formatting  
+- Formulas and functions (lookup, logical, text, date functions)  
+- Pivot Tables and Pivot Charts  
+- Dashboards and reports  
+- Data validation and conditional formatting  
 
-The goal of this repo is to build and showcase practical data analysis skills by working with structured and semi-structured datasets, applying analytical techniques, and creating meaningful visual and statistical insights that support data-driven decision making.
+### SQL
+- Basic to advanced queries  
+- Filtering, sorting, and grouping data  
+- Joins and subqueries  
+- Window functions  
+- Aggregations and reporting queries  
+- Practice datasets and query exercises  
 
-## 🛠 Tools & Technologies
+### Python for Data Analytics
+- Core Python concepts for data work  
+- Working with datasets and files  
+- Data manipulation and transformation  
 
-* **Excel** — data cleaning, formulas, pivot tables, dashboards
-* **Python** — Pandas, NumPy, Matplotlib, Seaborn for analysis & visualization
-* **SQL** — data querying, joins, aggregations, subqueries
-* **Power BI** — interactive dashboards and business reports
-* **Jupyter Notebook** — analysis workflows and documentation
+#### Libraries I’m Using
+- Pandas — data analysis and manipulation  
+- NumPy — numerical operations  
+- Matplotlib — basic visualizations  
+- Seaborn — statistical charts  
+- Jupyter Notebook — analysis workflow  
 
-## 📊 Skills Demonstrated
+### Power BI
+- Data modeling  
+- Power Query transformations  
+- DAX basics  
+- Interactive dashboards  
+- Visual storytelling with data  
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Data transformation and feature creation
-* SQL querying and database analysis
-* Dashboard and report building
-* Data visualization best practices
-* Insight extraction and summary reporting
+## Repository Structure
 
-## 📂 Repository Contents
+- `/excel` — practice sheets, dashboards, and exercises  
+- `/sql` — query practice and database exercises  
+- `/python` — notebooks and scripts  
+- `/powerbi` — reports and dashboard files  
+- `/datasets` — sample datasets used for practice  
 
-* Excel analysis files and dashboards
-* Python notebooks and scripts
-* SQL query practice and case studies
-* Power BI report files
-* Mini projects and dataset explorations
+## Purpose
 
-## 🚀 Ongoing Work
+This is a learning-focused repository. Most of the content is practice-based and will keep improving over time as I learn more advanced concepts and apply them in mini projects.
 
-This repository is continuously updated as I progress in my data analytics learning path and complete new projects across different tools and domains.
+## Progress Approach
 
----
+I focus on:
+- Practicing with real or sample datasets  
+- Writing clean and readable queries/code  
+- Building small dashboards and reports  
+- Revisiting topics to strengthen fundamentals  
 
-*Focused on building strong practical foundations in data analytics and business intelligence.*
+## Notes
+
+Suggestions and feedback are always welcome. This repo will continue to grow as I expand my skills in Data Analytics.
